@@ -57,3 +57,5 @@ int main() {
     return 0;
 }
 
+// OUTPUT:
+// Inorder traversal of the BST: 5 7 10 12 15 20
